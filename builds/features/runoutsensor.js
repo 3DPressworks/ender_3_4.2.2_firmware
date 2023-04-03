@@ -1,0 +1,9 @@
+enable: [
+    ["FILAMENT_RUNOUT_SENSOR", ],
+    ["HOST_ACTION_COMMANDS", ],
+    ["HOST_PROMPT_SUPPORT", ],
+    ["FILAMENT_RUNOUT_SENSOR", ],
+    ["FILAMENT_RUNOUT_SCRIPT","M412 H" ],
+    ["FIL_RUNOUT_ENABLED_DEFAULT","true" ],
+
+]
